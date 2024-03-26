@@ -1,11 +1,11 @@
 ### Hi there 👋
 
  <p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wesleyjosesantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="wesleyjosesantos"/> 
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wjsan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="wesleyjosesantos"/> 
  </p>
 
  <p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wesleyjosesantos&theme=dark&layout=compact" alt="languages" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wjsan&theme=dark&layout=compact" alt="languages" />
  </p>
 
 <!--
